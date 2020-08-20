@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423559759885",
+    "firebase_url": "https://testtypescript-40a95.firebaseio.com",
+    "project_id": "testtypescript-40a95",
+    "storage_bucket": "testtypescript-40a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423559759885:android:575974549ba932400bad44",
+        "android_client_info": {
+          "package_name": "com.promit.testtypescript"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423559759885-svr1noc4tgigqj9lgfbet8bpqabdrqmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNcVWcEYWq0s4IgzmUMdjvJJkJmQbV3cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423559759885-svr1noc4tgigqj9lgfbet8bpqabdrqmd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423559759885-79qfa0h6e4fhqmcnvmg9f485bkanrl7v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.promit.testtypescript"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
